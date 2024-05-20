@@ -1,0 +1,11 @@
+streamlit
+replicate
+pdfplumber
+python-docx
+pandas
+transformers
+exifread
+requests
+pillow
+numpy
+plotly
