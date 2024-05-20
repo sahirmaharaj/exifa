@@ -18,3 +18,7 @@ Meet [Exifa](https://exifaa.streamlit.app/), your AI assistant for understanding
 ![](https://github.com/sahirmaharaj/exifa/blob/main/img/3.png)
 
 [Exifa's](https://exifaa.streamlit.app/) capabilities extend beyond images. It also has powerful document handling features, allowing you to ask follow-up questions about documents and even strip all metadata from images. In addition, Exifa’s ability to retain context extends to explaining technical EXIF terms. When you ask about specific terms or request comparisons between technical details, the model leverages its memory to provide coherent and accurate explanations.
+
+## See Exifa in action
+
+https://github.com/sahirmaharaj/exifa/assets/157965615/61e340cb-7c0c-4f8d-8af9-a8927ab75f18
