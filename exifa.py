@@ -1,10 +1,10 @@
 """
 
-All code contributed to Wordlit.net is © 2024 by Sahir Maharaj. 
+All code contributed to Exifa.net is © 2024 by Sahir Maharaj. 
 The content is licensed under the Creative Commons Attribution 4.0 International License. 
 This allows for sharing and adaptation, provided appropriate credit is given, and any changes made are indicated.
 
-When using the code from Wordlit.net, please credit as follows: "Code sourced from Exifa.net, authored by Sahir Maharaj, 2024."
+When using the code from Exifa.net, please credit as follows: "Code sourced from Exifa.net, authored by Sahir Maharaj, 2024."
 
 For reporting bugs, requesting features, or further inquiries, please reach out to Sahir Maharaj at sahir@sahirmaharaj.com.
 
