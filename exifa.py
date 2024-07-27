@@ -1004,6 +1004,7 @@ st.sidebar.caption(
         </div>
         <br>
         <a href = 'https://exifa.betteruptime.com/'><img src='{uptime}'></a>
+        &nbsp; <a href="https://www.producthunt.com/posts/exifa-net?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-exifa&#0045;net" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=474560&theme=dark" alt="Exifa&#0046;net - Your&#0032;AI&#0032;assistant&#0032;for&#0032;understanding&#0032;EXIF&#0032;data | Product Hunt" style="width: 125px; height: 27px;" width="125" height="27" /></a>
         
         """,
     unsafe_allow_html=True,
